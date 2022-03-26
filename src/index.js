@@ -6,6 +6,9 @@ import 'regenerator-runtime/runtime'
 // import jquery
 import 'jquery'
 
+// import popper.js
+import 'popper.js'
+
 // import bootstrap's javascript part
 import 'bootstrap'
 
